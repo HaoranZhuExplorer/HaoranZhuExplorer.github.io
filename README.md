@@ -1,0 +1,1 @@
+My academic website built on the source code of Jon Barron's public website (https://jonbarron.info/) template (https://github.com/jonbarron/jonbarron.github.io).
